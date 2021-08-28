@@ -14,6 +14,7 @@ class Body extends Component{
                     <Col>
                         <Route path='/signup' exact component={Signup}/>
                         <Route path='/login' exact component={Login}/>
+                        <Route path='/' exact component={Login}/>
                     </Col>
                 </Row>
             </Container>
