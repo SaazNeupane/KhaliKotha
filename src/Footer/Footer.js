@@ -16,7 +16,7 @@ class Footer extends Component {
                                             About us </div>
 
                                         <p className="white-text">
-                                            Kotha Khali is a place where you can find your ideal room.</p>
+                                            Khali Kotha is a place where you can find your ideal room.</p>
                                     </div>
                                     <div className="col-md-3 m-b-30">
                                         <div className="footer-title m-t-5 m-b-20 p-b-8">

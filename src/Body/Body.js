@@ -10,6 +10,8 @@ import UpdateAd from './UpdateAd'
 import Terms from './Terms'
 import Rules from './AdRule'
 import Contact from './Contactus'
+import ViewAd from './ViewAd'
+
 
 
 
@@ -29,6 +31,7 @@ class Body extends Component{
                         <Route path='/terms' exact component={Terms}/>
                         <Route path='/rules' exact component={Rules}/>
                         <Route path='/contactus' exact component={Contact}/>
+                        <Route path='/ad/:id' exact component={ViewAd}/>
                     </Col>
                 </Row>
             </Container>
