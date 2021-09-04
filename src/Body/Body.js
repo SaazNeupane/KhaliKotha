@@ -7,6 +7,9 @@ import Home from './Home'
 import Profile from './Profile'
 import AddAd from './AddAd'
 import UpdateAd from './UpdateAd'
+import Terms from './Terms'
+import Rules from './AdRule'
+import Contact from './Contactus'
 
 
 
@@ -23,6 +26,9 @@ class Body extends Component{
                         <Route path='/profile' exact component={Profile}/>
                         <Route path='/addad' exact component={AddAd}/>
                         <Route path='/updatead/:id' exact component={UpdateAd}/>
+                        <Route path='/terms' exact component={Terms}/>
+                        <Route path='/rules' exact component={Rules}/>
+                        <Route path='/contactus' exact component={Contact}/>
                     </Col>
                 </Row>
             </Container>
