@@ -14,7 +14,7 @@ class Contact extends Component {
                                     <p>Koteshwor-32,Kathmandu</p>
                                 </div>
                                 <div class="social-information"> <i class="fa fa-envelope-o"></i>
-                                    <p>kothakhali@gmail.com</p>
+                                    <p>khalikotha@gmail.com</p>
                                 </div>
                                 <div class="social-information"> <i class="fa fa-mobile-phone"></i>
                                     <p>+977-9861320771 </p>

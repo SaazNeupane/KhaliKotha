@@ -7,9 +7,9 @@ class Terms extends Component {
                 <div className="container">
                     <header className="jumbotron my-4">
                         <a className="logo" href="/">
-                            <img src={"./LogoBlack.png"} width="300" height="250" alt="logo" className="rounded mx-auto d-block" />
+                            <img src={"./LogoBlack.png"} width="300" height="300" alt="logo" className="rounded mx-auto d-block" />
                         </a>
-                        <b className="lead"><h1><b>Kotha Khali</b></h1><h2><b><u>AGREEMENT TO TERMS</u></b></h2></b>
+                        <b className="lead"><h1><b>Khali Kotha</b></h1><h2><b><u>AGREEMENT TO TERMS</u></b></h2></b>
 
                         <h4><b> <u>Last Updated: March 5, 2021</u></b></h4>
 
@@ -196,9 +196,9 @@ You shall not:
 
 In order to resolve a complaint regarding the Site or to receive further information regarding use of the Site, please contact us at: <br />
 
-Kotha Khali<br />
+Khali Kotha<br />
 Kathmandu, Nepal<br />
-kothakhali@gmail.com<br />
+khalikotha@gmail.com<br />
 
 
 

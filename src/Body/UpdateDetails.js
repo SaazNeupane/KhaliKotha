@@ -83,17 +83,17 @@ class UpdateDetails extends Component {
                           onChange={this.sendData} />
                       </div>
                       <div class="col-md-12 col-lg-10 col-12">
-                        <label for="first-name">Mobilre</label>
-                        <input type="text" class="form-control" id="first-name"
+                        <label for="first-name">Mobile</label>
+                        <input type="text" class="form-control" id="mobile"
                           name="mobile"
                           value={this.state.mobile}
-                          onChange={this.sendAdData} />
+                          onChange={this.sendData} />
                       </div>
                     </div>
                     <div class="row justify-content-end mb-5">
                       <div class="col-lg-4 col-auto ">
                         <button type="button" class="btn btn-primary btn-block" onClick={this.updatehandler}>
-                          <small class="font-weight-bold">Update Room</small>
+                          <small class="font-weight-bold">Update Details</small>
                         </button>
                       </div>
                     </div>
