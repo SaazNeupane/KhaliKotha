@@ -13,6 +13,7 @@ import Terms from './Terms'
 import Rules from './AdRule'
 import Profile from './Profile'
 import Contact from './Contactus'
+import Search from './Search'
 
 class Body extends Component{
     render() {
@@ -32,6 +33,7 @@ class Body extends Component{
                         <Route path='/terms' exact component={Terms}/>
                         <Route path='/rules' exact component={Rules}/>
                         <Route path='/contactus' exact component={Contact}/>
+                        <Route path='/search' exact component={Search}/>
                     </Col>
                 </Row>
             </Container>

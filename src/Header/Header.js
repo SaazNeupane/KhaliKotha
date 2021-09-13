@@ -49,7 +49,7 @@ class Header extends Component {
                         </div> */}
                             <ul className="navbar-nav ml-auto navbar-center">
                                 <li className="nav-item">
-                                    <a className="nav-link " href="/">Search</a>
+                                    <a className="nav-link " href="/search">Search</a>
                                 </li>
 
                                 {/* <li className="nav-item">
